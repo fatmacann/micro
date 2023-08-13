@@ -6,6 +6,5 @@ Basic project for micro front-end architecture
 - React
 - Webpack 5
 - Babel
-- scss (for styling)
 
 
